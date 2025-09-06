@@ -21,5 +21,5 @@ module lending_core::error {
     public fun required_parent_account_cap(): u64 {1900}
     public fun reserve_not_found(): u64 {2000}
     public fun duplicate_config(): u64 {2001}
-    public fun invalid_user(): u64 {2001}
+    public fun invalid_user(): u64 {2002}
 }
