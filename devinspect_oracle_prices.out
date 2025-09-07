@@ -1,0 +1,162 @@
+[
+  {
+    "asset": 0,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 1,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 2,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 3,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 4,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 5,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 6,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 7,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 8,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 9,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 10,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 11,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 12,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 13,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 14,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 15,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 16,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 17,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 18,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 19,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 20,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 21,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 22,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 23,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 24,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 25,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 26,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 27,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 28,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 29,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 30,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  },
+  {
+    "asset": 31,
+    "result": null,
+    "error": "MoveAbort(MoveLocation { module: ModuleId { address: ca441b44943c16be0e6e23c5a955bb971537ea3289ae8016fbf33fffe1fd210f, name: Identifier(\"oracle\") }, function: 1, instruction: 8, function_name: Some(\"version_verification\") }, 50000) in command 0"
+  }
+]
